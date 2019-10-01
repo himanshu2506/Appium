@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+  <Locator>
+
+     <Animation>//android.widget.TextView[@text='Animation' and @index='1']</Animation>
+     <Hide-ShowAnimations>//android.widget.TextView[@index='6']</Hide-ShowAnimations>
+     <Hide>//android.widget.CheckBox[@text='Hide (GONE)' and @index='1']</Hide>
+     <ShowButtons>//android.widget.Button[@text='Show Buttons']</ShowButtons>
+     <Button1>//android.widget.Button[@text='0' and @index='0']</Button1>
+     <Button2>//android.widget.Button[@index='2']</Button2>
+     <App>//android.widget.TextView[@text='App' and @index='2']</App>
+     <ActionBar>//android.widget.TextView[@text='Action Bar' and @index='0']</ActionBar>
+     <DisplayOptions>//android.widget.TextView[@text='Display Options' and @index='5']</DisplayOptions>
+     <Display_Show_Title>//android.widget.Button[@text='DISPLAY_SHOW_TITLE' and @index='3']</Display_Show_Title>
+     <View>//android.widget.TextView[@text='App/Action Bar/Display Options']</View>
+     
+  </Locator>
+  
+</root>
